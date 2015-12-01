@@ -1,4 +1,4 @@
-# Data-Mining-Classification
+# Data: Mining: Classification
 
 The purpose of this project is to implement the Decision Tree Algorithm on two datasets.In each dataset, each row corresponds to a record. The last column corresponds to the class label, and the remaining columns are the attributes. For each dataset, we provide two versions: One is the original data. The other (processed version) is obtained by mapping attribute values to integers so that it can be loaded to Matlab. README presents the meanings of the attributes in these two datasets. 
 
